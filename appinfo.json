@@ -18,22 +18,22 @@
       {
         "type": "png",
         "name": "IMAGE_SUN",
-        "file": "img/sun.png"
+        "file": "img/sun_bw.png"
       },
       {
         "type": "png",
         "name": "IMAGE_RAIN",
-        "file": "img/rain.png"
+        "file": "img/rain_bw.png"
       },
       {
         "type": "png",
         "name": "IMAGE_CLOUD",
-        "file": "img/cloud.png"
+        "file": "img/cloud_bw.png"
       },
       {
         "type": "png",
         "name": "IMAGE_SNOW",
-        "file": "img/snow.png"
+        "file": "img/snow_bw.png"
       }
     ]
   },
